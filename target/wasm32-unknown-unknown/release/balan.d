@@ -1,0 +1,1 @@
+/home/archway/balan/target/wasm32-unknown-unknown/release/balan.wasm: /home/archway/balan/src/contract.rs /home/archway/balan/src/error.rs /home/archway/balan/src/lib.rs /home/archway/balan/src/msg.rs /home/archway/balan/src/state.rs

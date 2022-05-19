@@ -1,0 +1,1 @@
+74c439b11a7e46529798d3f4b2efa28b9cd0e04b36e80adcc866b9ef564b417f  ./target/wasm32-unknown-unknown/release/balan.wasm

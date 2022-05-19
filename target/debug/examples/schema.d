@@ -1,0 +1,1 @@
+/home/archway/balan/target/debug/examples/schema: /home/archway/balan/examples/schema.rs /home/archway/balan/src/contract.rs /home/archway/balan/src/error.rs /home/archway/balan/src/lib.rs /home/archway/balan/src/msg.rs /home/archway/balan/src/state.rs
